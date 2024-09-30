@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115405846757",
+    "project_id": "kutumbtest",
+    "storage_bucket": "kutumbtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115405846757:android:02c54ff2b901fef4dc7c0c",
+        "android_client_info": {
+          "package_name": "com.example.kutumb_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvk0TxaltRLO0wzgbMHu9dY3fLHBijoIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
